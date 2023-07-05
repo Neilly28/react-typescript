@@ -1,0 +1,20 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "cities": ["New York", "Los Angeles", "Chicago", "Houston", "Miami"]
+    },
+    {
+      "name": "Canada",
+      "cities": ["Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa"]
+    },
+    {
+      "name": "United Kingdom",
+      "cities": ["London", "Manchester", "Birmingham", "Glasgow", "Edinburgh"]
+    },
+    {
+      "name": "Australia",
+      "cities": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide"]
+    }
+  ]
+}
